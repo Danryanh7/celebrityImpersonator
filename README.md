@@ -1,5 +1,5 @@
 # celebrityImpersonator
-Capstone Project for 'Build Chatbots with Python'. 
+Capstone Project for Codecademy's 'Build Chatbots with Python'. 
 
 ## Premise
 * A Twitter scraper that parses celebrity tweets and trains an AI on how it may speak like them.
@@ -20,3 +20,18 @@ Capstone Project for 'Build Chatbots with Python'.
 * Tweepy
 * Regex
 * numpy
+* Twitter Bearer Token
+
+# Models
+
+### Scraped Tweets From Training File
+![Screen Shot 2022-03-25 at 4 31 11 PM](https://user-images.githubusercontent.com/89366190/160196797-0c8bb179-47c3-4f86-8244-167d06698c37.png)
+
+### Requesting Twitter Handle
+![Screen Shot 2022-03-25 at 4 30 48 PM](https://user-images.githubusercontent.com/89366190/160196803-65ff3bb4-379a-4396-87bf-6385c85f4a45.png)
+
+### Training Model
+![Screen Shot 2022-03-25 at 4 29 19 PM](https://user-images.githubusercontent.com/89366190/160196807-f49d686d-1805-4ebf-9f71-c4ff8afcf0e1.png)
+
+### Talking to Bot (You can notice pattern similarities especially with emoji use)
+![Screen Shot 2022-03-25 at 4 30 08 PM](https://user-images.githubusercontent.com/89366190/160196813-77e878a6-9c53-4bff-a12a-48e9ce23f379.png)
