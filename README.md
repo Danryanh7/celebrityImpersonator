@@ -20,7 +20,6 @@ Capstone Project for Codecademy's 'Build Chatbots with Python'.
 * Tweepy
 * Regex
 * numpy
-* Twitter Bearer Token
 
 # Models
 
